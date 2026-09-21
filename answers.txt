@@ -4,3 +4,5 @@ Q2: What field could data science be applied to? Give an Example
 Answer: apply to many field like healthcare, and banking/finance because they have to looking at alot of data
 Q3: what is the difference between merging and rebasing
 Answer: merging creat a new commit that ties two branch together, while rebasing replays your banch's commits on top of another branch
+Q4: What are you looking forward to this semester?
+Answer: learning about pandas, and data science
